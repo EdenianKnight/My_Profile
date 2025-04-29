@@ -14,4 +14,4 @@ git push = send to github
 git pull = get changes from github
 
 git merge = carried out when there's a conflict
-So i think we will have a conflict
+We made this change to create a conflict 1
