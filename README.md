@@ -11,6 +11,6 @@ git commit = saving
 
 git push = send to github
 
-git pull = download changes from github
+git pull = get changes from github
 
 git merge = carried out when there's a conflict
